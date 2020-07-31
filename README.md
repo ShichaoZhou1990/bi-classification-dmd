@@ -1,2 +1,2 @@
 # bi-classification-dmd
-It will be Matlab codes for a feature extraction method based on DMD and high-frequency characteristics If the paper may be published.
+The Matlab codes for a feature extraction method based on DMD and high-frequency characteristics will be public if the paper may be published.
