@@ -1,2 +1,2 @@
 # bi-classification-dmd
-Matlab codes about a new feature extraction method based on DMD and high-frequency characteristics
+It will be Matlab codes for a feature extraction method based on DMD and high-frequency characteristics If the paper may be published.
